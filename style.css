@@ -1,0 +1,15 @@
+*{
+  padding:0;
+  margin:0;
+}
+body {
+  background-color: brown;
+  /* width: 100vw;
+  height: 100vh; */
+}
+html {
+  -webkit-app-region: drag;
+}
+textarea {
+  -webkit-app-region: no-drag;
+}
